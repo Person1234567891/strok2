@@ -1,0 +1,42 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.myTravel{
+    border:1px solid grey;
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+}
+.myTravel img{
+    width:100%;
+}
+.myTravel h5,p{
+    margin-left:20px;
+}
+.movie1{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+}
+.movie1 i{
+    float:right;
+}
+.movie-text span{
+    color:darkblue;
+}
